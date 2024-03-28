@@ -1,10 +1,10 @@
 # Purrfect Catisine
 
 ## Objective
-The objective of this project is to address a specific issue by implementing a terminal simulation, utilizing the design patterns learned in class. This will help in avoiding common software design problems such as rigidity, fragility, immobility, and viscosity.
+The objective of this project is to address a specific issue by implementing a terminal simulation through te use of the design patterns learned in class. This will help to avoid common software design problems such as rigidity, fragility, immobility, and viscosity.
 
 ## Requirements
-The developers at Michitas Corp have requested the creation of a simulation for a restaurant named Gatocina Purrfecta. The requested features are:
+The developers at Michitas Corp have requested the creation of a simulation game for a restaurant named Gatocina Purrfecta. The requested features are:
 1. Selection of personal Cat Chef: When customers enter the restaurant, they are provided with the opportunity to choose their own personal Cat Chef. Once a Cat Chef has been selected, customers can explore a menu offering options from Italian, Mexican, and Japanese cuisines, depending on the chosen cat chef. This will be implemented using the Strategy design pattern.
 2. Creation of Customized Dish: When assembling their dish, customers will encounter a variety of ingredients and options, each accompanied by witty messages and combination suggestions. This customization process is achieved using the Builder design pattern.
 3. Payment Process: Once the customer has completed the creation of their customized dish, it's time to settle the bill. If the customer has enough money to cover the cost, the transaction will be successful, and they can enjoy their delicious meal. To handle this payment process securely, the Proxy design pattern will be applied.
