@@ -1,7 +1,7 @@
 # Purrfect Catisine
 
 ## Objective
-The objective of this project is to address a specific issue by implementing a terminal simulation through te use of the design patterns learned in class. This will help to avoid common software design problems such as rigidity, fragility, immobility, and viscosity.
+The objective of this project is to address a specific issue by implementing a terminal simulation through the use of the design patterns learned in class. This will help to avoid common software design problems such as rigidity, fragility, immobility, and viscosity.
 
 ## Requirements
 The developers at Michitas Corp have requested the creation of a simulation game for a restaurant named Gatocina Purrfecta. The requested features are:
