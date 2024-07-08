@@ -49,4 +49,7 @@ To be able to shop at our Gatocina Purrfecta, the following bank accounts are av
   - Available Money: $10,000
 
 ## Additional Notes
-If the user has lost the fight, the program is designed to not let them exit, as their punishment is to remain in a loop of cat images for eternity. To force the program to exit: ctrl + c.
+If the user has lost the fight, the program is designed to not let them exit, as their punishment is to remain in a loop of cat images for eternity. To force the program to exit:
+```bash
+ ctrl + c.
+```
