@@ -21,9 +21,17 @@ The developers at Michitas Corp have requested the creation of a simulation game
 
 ## Execution
 To compile and run this project, make sure you have Java installed on your system. Then, follow these steps:
-1. Open a terminal and navigate to the root folder of the project: \Proyecto02_Michitas\src\ Note: We highly recommend running from the terminal, as some editors may not correctly handle the program due to the arrangement of files and how these editors execute the code.
-2. Compile the project by executing the following command: javac *.java
-3. Run the program with the following command: java GatocinaPurrfecta
+1. Open a terminal and navigate to the root folder of the project: \Proyecto02_Michitas\src\ 
+
+Note: We highly recommend running from the terminal, as some editors may not correctly handle the program due to the arrangement of files and how these editors execute the code.
+2. Compile the project by executing the following command: 
+```bash
+javac *.java
+```
+3. Run the program with the following command:
+```bash 
+java GatocinaPurrfecta
+```
 
 ## Bank Accounts
 To be able to shop at our Gatocina Purrfecta, the following bank accounts are available:
