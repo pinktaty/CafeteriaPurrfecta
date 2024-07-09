@@ -13,11 +13,11 @@ The developers at Michitas Corp have requested the creation of a simulation game
 6. Code Cleanliness and Clarity: In order to maintain the cleanest possible structure, we implement the MVC pattern.
 
 ## Project Structure
-- src/: This folder contains the Java source files.
--  src/assets/: This folder contains extra material that the code uses (images and sound).
--  UML.png contains the UML diagram representing the project.
-- DiagramaCasosDeUso.png contains the use case diagram representing the project.
-- DiagramaEstados.png contains the state diagram representing the project.
+- `src/`: This folder contains the Java source files.
+- `src/assets/`: This folder contains extra material that the code uses (images and sound).
+- `UML.png`: contains the UML diagram representing the project.
+- `DiagramaCasosDeUso.png`: Contains the use case diagram representing the project.
+- `DiagramaEstados.png`: Contains the state diagram representing the project.
 
 ## Execution
 To compile and run this project, make sure you have Java installed on your system. Then, follow these steps:
